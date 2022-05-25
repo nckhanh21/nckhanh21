@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Im a student from Post and Telecommuication Institute of Technology, Hanoi, Vietnam
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
