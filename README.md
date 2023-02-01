@@ -2,7 +2,7 @@
 Im Khanh!
 Im a student from Post and Telecommuication Institute of Technology, Hanoi, Vietnam
 
-- 🔭 I’m currently a student
+- 🔭 I’m currently a final year student
 - 🌱 I’m currently Fullstack Dev
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
